@@ -7,6 +7,7 @@ beforeEach(() => {
     calculator = new Calculator();
 });
 
+// Remove .skip once implemented
 describe.skip('Calculator Functions', () => {
     it('should calculate the sum of two numbers', () => {
         // TODO: Test add scenario
